@@ -1,919 +1,11 @@
 {
     "Name": "",
-    "TimeLayouts": {
-        "ee47a562-4fa6-40bd-ab8d-89babecb9d4d": {
-            "Name": "新时间表",
-            "Layouts": [
-                {
-                    "StartSecond": "2024-09-07T07:00:00",
-                    "EndSecond": "2024-09-07T07:50:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T07:50:00",
-                    "EndSecond": "2024-09-07T08:00:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T08:00:00",
-                    "EndSecond": "2024-09-07T08:45:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T08:45:00",
-                    "EndSecond": "2024-09-07T08:55:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T08:55:00",
-                    "EndSecond": "2024-09-07T09:40:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T09:40:00",
-                    "EndSecond": "2024-09-07T10:05:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T10:05:00",
-                    "EndSecond": "2024-09-07T10:50:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T10:50:00",
-                    "EndSecond": "2024-09-07T11:00:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T11:00:00",
-                    "EndSecond": "2024-09-07T11:50:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T11:50:00",
-                    "EndSecond": "2024-09-07T12:20:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T12:20:00",
-                    "EndSecond": "2024-09-07T13:00:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T13:00:00",
-                    "EndSecond": "2024-09-07T13:30:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T13:30:00",
-                    "EndSecond": "2024-09-07T13:40:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T13:40:00",
-                    "EndSecond": "2024-09-07T14:25:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T14:25:00",
-                    "EndSecond": "2024-09-07T14:35:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T14:35:00",
-                    "EndSecond": "2024-09-07T15:20:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T15:20:00",
-                    "EndSecond": "2024-09-07T15:50:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T15:50:00",
-                    "EndSecond": "2024-09-07T16:35:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T16:35:00",
-                    "EndSecond": "2024-09-07T16:45:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T16:45:00",
-                    "EndSecond": "2024-09-07T17:30:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T17:30:00",
-                    "EndSecond": "2024-09-07T18:10:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T18:10:00",
-                    "EndSecond": "2024-09-07T19:00:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T19:00:00",
-                    "EndSecond": "2024-09-07T19:10:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2024-09-07T19:10:00",
-                    "EndSecond": "2024-09-07T20:30:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                }
-            ],
-            "AttachedObjects": {},
-            "IsActive": false
-        }
-    },
-    "ClassPlans": {
-        "4af7b869-204e-414b-b0c6-c4358345ef7a": {
-            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
-            "TimeRule": {
-                "WeekDay": 1,
-                "WeekCountDiv": 0,
-                "IsActive": false
-            },
-            "Classes": [
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "cf251cd8-2aab-4aa1-8211-50f4e6919a3d",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                }
-            ],
-            "Name": "星期一",
-            "IsOverlay": false,
-            "OverlaySourceId": null,
-            "OverlaySetupTime": "2024-09-07T13:35:47.4466569+08:00",
-            "IsEnabled": true,
-            "AttachedObjects": {},
-            "IsActive": false
-        },
-        "e781727f-2e40-46f6-8e73-2d9564895540": {
-            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
-            "TimeRule": {
-                "WeekDay": 2,
-                "WeekCountDiv": 0,
-                "IsActive": false
-            },
-            "Classes": [
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                }
-            ],
-            "Name": "星期二",
-            "IsOverlay": false,
-            "OverlaySourceId": null,
-            "OverlaySetupTime": "2024-09-07T13:36:00.6800916+08:00",
-            "IsEnabled": true,
-            "AttachedObjects": {},
-            "IsActive": false
-        },
-        "66796bd7-5f60-410f-9d4a-2a196ffdda63": {
-            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
-            "TimeRule": {
-                "WeekDay": 3,
-                "WeekCountDiv": 0,
-                "IsActive": false
-            },
-            "Classes": [
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "e2614929-97e5-407f-ad7c-f7a0cdf55f29",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "e2614929-97e5-407f-ad7c-f7a0cdf55f29",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                }
-            ],
-            "Name": "星期三",
-            "IsOverlay": false,
-            "OverlaySourceId": null,
-            "OverlaySetupTime": "2024-09-07T13:36:15.1926242+08:00",
-            "IsEnabled": true,
-            "AttachedObjects": {
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                },
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                }
-            },
-            "IsActive": false
-        },
-        "afeed70a-8913-46c3-817a-51a345fdbdc9": {
-            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
-            "TimeRule": {
-                "WeekDay": 4,
-                "WeekCountDiv": 1,
-                "IsActive": false
-            },
-            "Classes": [
-                {
-                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                }
-            ],
-            "Name": "星期四 单",
-            "IsOverlay": false,
-            "OverlaySourceId": null,
-            "OverlaySetupTime": "2024-09-07T13:36:28.3848247+08:00",
-            "IsEnabled": true,
-            "AttachedObjects": {
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                },
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                }
-            },
-            "IsActive": false
-        },
-        "87a101fc-c251-413b-be0a-b1830081befc": {
-            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
-            "TimeRule": {
-                "WeekDay": 4,
-                "WeekCountDiv": 2,
-                "IsActive": false
-            },
-            "Classes": [
-                {
-                    "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                }
-            ],
-            "Name": "星期四 双",
-            "IsOverlay": false,
-            "OverlaySourceId": null,
-            "OverlaySetupTime": "2024-09-07T13:36:46.9445767+08:00",
-            "IsEnabled": true,
-            "AttachedObjects": {
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                },
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                }
-            },
-            "IsActive": false
-        },
-        "3af68ff8-510a-437f-af0e-945d47d7b3f9": {
-            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
-            "TimeRule": {
-                "WeekDay": 5,
-                "WeekCountDiv": 1,
-                "IsActive": false
-            },
-            "Classes": [
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                }
-            ],
-            "Name": "星期五 单 ",
-            "IsOverlay": false,
-            "OverlaySourceId": null,
-            "OverlaySetupTime": "2024-09-07T13:36:57.952237+08:00",
-            "IsEnabled": true,
-            "AttachedObjects": {
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                },
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                }
-            },
-            "IsActive": false
-        },
-        "cd3b191c-4a4f-421e-9707-269c91d07a27": {
-            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
-            "TimeRule": {
-                "WeekDay": 5,
-                "WeekCountDiv": 2,
-                "IsActive": false
-            },
-            "Classes": [
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                },
-                {
-                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
-                    "IsActive": false
-                }
-            ],
-            "Name": "星期五 双",
-            "IsOverlay": false,
-            "OverlaySourceId": null,
-            "OverlaySetupTime": "2024-09-07T13:37:10.7201911+08:00",
-            "IsEnabled": true,
-            "AttachedObjects": {
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                },
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                }
-            },
-            "IsActive": false
-        }
-    },
+    "TimeLayouts": {},
+    "ClassPlans": {},
     "Subjects": {
         "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
-            "Name": "语文",
-            "Initial": "语",
+            "Name": "\u8BED\u6587",
+            "Initial": "\u8BED",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -930,7 +22,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -938,8 +30,8 @@
             "IsActive": false
         },
         "1154d452-5ede-4194-b4dd-cb40c956c8ed": {
-            "Name": "数学",
-            "Initial": "数",
+            "Name": "\u6570\u5B66",
+            "Initial": "\u6570",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -948,7 +40,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -964,8 +56,8 @@
             "IsActive": false
         },
         "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd": {
-            "Name": "英语",
-            "Initial": "英",
+            "Name": "\u82F1\u8BED",
+            "Initial": "\u82F1",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -982,7 +74,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -990,8 +82,8 @@
             "IsActive": false
         },
         "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04": {
-            "Name": "历史",
-            "Initial": "历",
+            "Name": "\u5386\u53F2",
+            "Initial": "\u5386",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1008,7 +100,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1016,8 +108,8 @@
             "IsActive": false
         },
         "9f0d71b7-b4da-4040-a3d5-64da7573c6dd": {
-            "Name": "政治",
-            "Initial": "政",
+            "Name": "\u653F\u6CBB",
+            "Initial": "\u653F",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1034,7 +126,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1042,8 +134,8 @@
             "IsActive": false
         },
         "a4a76e77-29d8-4103-882c-2f4c9d1e8077": {
-            "Name": "物理",
-            "Initial": "物",
+            "Name": "\u7269\u7406",
+            "Initial": "\u7269",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1060,7 +152,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1068,8 +160,8 @@
             "IsActive": false
         },
         "d18e9906-0210-4f00-9dd6-b919f0dd8287": {
-            "Name": "化学",
-            "Initial": "化",
+            "Name": "\u5316\u5B66",
+            "Initial": "\u5316",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1086,7 +178,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1094,8 +186,8 @@
             "IsActive": false
         },
         "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca": {
-            "Name": "生物",
-            "Initial": "生",
+            "Name": "\u751F\u7269",
+            "Initial": "\u751F",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1112,7 +204,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1120,8 +212,8 @@
             "IsActive": false
         },
         "7b7aea95-30ad-4490-8d98-0c9179c47a10": {
-            "Name": "地理",
-            "Initial": "地",
+            "Name": "\u5730\u7406",
+            "Initial": "\u5730",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1138,7 +230,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1146,8 +238,8 @@
             "IsActive": false
         },
         "66d1c380-d292-46e1-86d5-d403e2a4f200": {
-            "Name": "信息技术",
-            "Initial": "信",
+            "Name": "\u4FE1\u606F\u6280\u672F",
+            "Initial": "\u4FE1",
             "TeacherName": "",
             "IsOutDoor": true,
             "AttachedObjects": {
@@ -1155,9 +247,9 @@
                     "IsClassOnNotificationEnabled": true,
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请前往机房集合。",
-                    "IsAttachSettingsEnabled": false,
+                    "ClassPreparingDeltaTime": 600,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u524D\u5F80\u673A\u623F\u96C6\u5408\u3002",
+                    "IsAttachSettingsEnabled": true,
                     "IsActive": false
                 },
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -1172,8 +264,8 @@
             "IsActive": false
         },
         "0ed2307b-4d9b-48fa-97ed-94bd2213c84e": {
-            "Name": "体育",
-            "Initial": "体",
+            "Name": "\u4F53\u80B2",
+            "Initial": "\u4F53",
             "TeacherName": "",
             "IsOutDoor": true,
             "AttachedObjects": {
@@ -1181,9 +273,9 @@
                     "IsClassOnNotificationEnabled": true,
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请前往体育场集合。",
-                    "IsAttachSettingsEnabled": false,
+                    "ClassPreparingDeltaTime": 600,
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u524D\u5F80\u4F53\u80B2\u573A\u96C6\u5408\u3002",
+                    "IsAttachSettingsEnabled": true,
                     "IsActive": false
                 },
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
@@ -1198,8 +290,8 @@
             "IsActive": false
         },
         "923f4a8b-51eb-468b-971d-bb02e7db0163": {
-            "Name": "自习",
-            "Initial": "自",
+            "Name": "\u81EA\u4E60",
+            "Initial": "\u81EA",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1216,7 +308,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1224,8 +316,8 @@
             "IsActive": false
         },
         "0d412099-dac6-4616-b6a7-c4fb76b12063": {
-            "Name": "通用技术",
-            "Initial": "技",
+            "Name": "\u901A\u7528\u6280\u672F",
+            "Initial": "\u6280",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1242,7 +334,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1250,8 +342,8 @@
             "IsActive": false
         },
         "91a88ebb-8ecb-493e-b09c-e35718f01dce": {
-            "Name": "音乐",
-            "Initial": "音",
+            "Name": "\u97F3\u4E50",
+            "Initial": "\u97F3",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1268,7 +360,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1276,8 +368,8 @@
             "IsActive": false
         },
         "742b00dc-901b-496f-ae33-6714a13fa465": {
-            "Name": "美术",
-            "Initial": "美",
+            "Name": "\u7F8E\u672F",
+            "Initial": "\u7F8E",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1294,7 +386,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1302,8 +394,8 @@
             "IsActive": false
         },
         "353c420e-c256-4e28-9f9c-283333ba6e62": {
-            "Name": "选修课",
-            "Initial": "选",
+            "Name": "\u9009\u4FEE\u8BFE",
+            "Initial": "\u9009",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1320,7 +412,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1328,8 +420,8 @@
             "IsActive": false
         },
         "cc826063-bdb7-492b-baf3-3c6877e8c4bf": {
-            "Name": "社团",
-            "Initial": "社",
+            "Name": "\u793E\u56E2",
+            "Initial": "\u793E",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1346,7 +438,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1354,8 +446,8 @@
             "IsActive": false
         },
         "31380edc-400d-46c2-b993-a5c4a43db126": {
-            "Name": "心理",
-            "Initial": "心",
+            "Name": "\u5FC3\u7406",
+            "Initial": "\u5FC3",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1372,7 +464,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1380,8 +472,8 @@
             "IsActive": false
         },
         "9875b24c-470d-4195-8a6a-73925ea4808b": {
-            "Name": "早读",
-            "Initial": "早",
+            "Name": "\u65E9\u8BFB",
+            "Initial": "\u65E9",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1398,7 +490,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1406,8 +498,8 @@
             "IsActive": false
         },
         "cf251cd8-2aab-4aa1-8211-50f4e6919a3d": {
-            "Name": "班会",
-            "Initial": "班",
+            "Name": "\u73ED\u4F1A",
+            "Initial": "\u73ED",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1424,7 +516,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
@@ -1432,8 +524,8 @@
             "IsActive": false
         },
         "95dd61cd-5d2e-4f23-80e8-99be8aa97028": {
-            "Name": "周测",
-            "Initial": "测",
+            "Name": "\u5468\u6D4B",
+            "Initial": "\u6D4B",
             "TeacherName": "",
             "IsOutDoor": false,
             "AttachedObjects": {
@@ -1442,7 +534,7 @@
                     "IsClassOnPreparingNotificationEnabled": true,
                     "IsClassOffNotificationEnabled": true,
                     "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
                     "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 },
@@ -1452,84 +544,6 @@
                     "ExtraInfoType": 0,
                     "IsCountdownEnabled": true,
                     "CountdownSeconds": 60,
-                    "IsActive": false
-                }
-            },
-            "IsActive": false
-        },
-        "5647e7be-2e02-46f2-b80b-05d509ebabc7": {
-            "Name": "大课间",
-            "Initial": "",
-            "TeacherName": "",
-            "IsOutDoor": true,
-            "AttachedObjects": {
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                },
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                }
-            },
-            "IsActive": false
-        },
-        "b413c9c6-043e-4a5b-b633-14a31eceb60c": {
-            "Name": "午休",
-            "Initial": "休",
-            "TeacherName": "",
-            "IsOutDoor": false,
-            "AttachedObjects": {
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                },
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                }
-            },
-            "IsActive": false
-        },
-        "e2614929-97e5-407f-ad7c-f7a0cdf55f29": {
-            "Name": "作文",
-            "Initial": "作",
-            "TeacherName": "罗茜",
-            "IsOutDoor": false,
-            "AttachedObjects": {
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                },
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
-                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
             },
@@ -1539,6 +553,6 @@
     "IsOverlayClassPlanEnabled": false,
     "OverlayClassPlanId": null,
     "TempClassPlanId": null,
-    "TempClassPlanSetupTime": "2024-09-07T13:43:40.1475851+08:00",
+    "TempClassPlanSetupTime": "2024-05-03T20:33:04.7829202+08:00",
     "IsActive": false
 }

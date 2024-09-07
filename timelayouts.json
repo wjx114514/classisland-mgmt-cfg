@@ -1,210 +1,12 @@
 {
     "Name": "",
     "TimeLayouts": {
-        "72b10172-8e9b-4f06-87e1-6799d98d5478": {
-            "Name": "\u5468\u4E00-\u5468\u56DB",
+        "ee47a562-4fa6-40bd-ab8d-89babecb9d4d": {
+            "Name": "新时间表",
             "Layouts": [
                 {
-                    "StartSecond": "2023-08-20T07:20:00+08:00",
-                    "EndSecond": "2023-08-20T07:45:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": true,
-                    "DefaultClassId": "9875b24c-470d-4195-8a6a-73925ea4808b",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T07:45:00+08:00",
-                    "EndSecond": "2023-08-20T07:55:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T07:55:00+08:00",
-                    "EndSecond": "2023-08-20T08:35:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T08:35:00+08:00",
-                    "EndSecond": "2023-08-20T08:45:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T08:45:00+08:00",
-                    "EndSecond": "2023-08-20T09:25:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T09:25:00+08:00",
-                    "EndSecond": "2023-08-20T09:50:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T09:50:00+08:00",
-                    "EndSecond": "2023-08-20T10:30:00+08:00",
+                    "StartSecond": "2024-09-07T07:00:00",
+                    "EndSecond": "2024-09-07T07:50:00",
                     "TimeType": 0,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
@@ -222,7 +24,7 @@
                             "IsClassOnPreparingNotificationEnabled": true,
                             "IsClassOffNotificationEnabled": true,
                             "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
+                            "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
                             "IsAttachSettingsEnabled": false,
                             "IsActive": false
                         },
@@ -236,314 +38,8 @@
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T10:30:00+08:00",
-                    "EndSecond": "2023-08-20T10:40:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T10:40:00+08:00",
-                    "EndSecond": "2023-08-20T11:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T11:20:00+08:00",
-                    "EndSecond": "2023-08-20T11:30:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T11:30:00+08:00",
-                    "EndSecond": "2023-08-20T12:10:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T12:10:00+08:00",
-                    "EndSecond": "2023-08-20T12:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": true,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": false,
-                            "IsClassOnPreparingNotificationEnabled": false,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T12:20:00+08:00",
-                    "EndSecond": "2023-08-20T14:00:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T13:00:00+08:00",
-                    "EndSecond": "2023-08-20T13:00:00+08:00",
-                    "TimeType": 2,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T14:00:00+08:00",
-                    "EndSecond": "2023-08-20T14:40:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T14:40:00+08:00",
-                    "EndSecond": "2023-08-20T14:50:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T14:50:00+08:00",
-                    "EndSecond": "2023-08-20T15:30:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T15:30:00+08:00",
-                    "EndSecond": "2023-08-20T15:40:00+08:00",
+                    "StartSecond": "2024-09-07T07:50:00",
+                    "EndSecond": "2024-09-07T08:00:00",
                     "TimeType": 1,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
@@ -551,231 +47,197 @@
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T15:40:00+08:00",
-                    "EndSecond": "2023-08-20T16:20:00+08:00",
+                    "StartSecond": "2024-09-07T08:00:00",
+                    "EndSecond": "2024-09-07T08:45:00",
                     "TimeType": 0,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "AttachedObjects": {},
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T16:20:00+08:00",
-                    "EndSecond": "2023-08-20T16:35:00+08:00",
+                    "StartSecond": "2024-09-07T08:45:00",
+                    "EndSecond": "2024-09-07T08:55:00",
                     "TimeType": 1,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
+                    "AttachedObjects": {},
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T16:35:00+08:00",
-                    "EndSecond": "2023-08-20T17:15:00+08:00",
+                    "StartSecond": "2024-09-07T08:55:00",
+                    "EndSecond": "2024-09-07T09:40:00",
                     "TimeType": 0,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "AttachedObjects": {},
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T17:15:00+08:00",
-                    "EndSecond": "2023-08-20T18:30:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T18:00:00+08:00",
-                    "EndSecond": "2023-08-20T18:00:00+08:00",
-                    "TimeType": 2,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T18:30:00",
-                    "EndSecond": "2023-08-20T20:20:00+08:00",
+                    "StartSecond": "2024-09-07T09:40:00",
+                    "EndSecond": "2024-09-07T10:05:00",
                     "TimeType": 0,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 300,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "AttachedObjects": {},
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T20:20:00+08:00",
-                    "EndSecond": "2023-08-20T20:40:00+08:00",
+                    "StartSecond": "2024-09-07T10:05:00",
+                    "EndSecond": "2024-09-07T10:50:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T10:50:00",
+                    "EndSecond": "2024-09-07T11:00:00",
                     "TimeType": 1,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "AttachedObjects": {},
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T20:40:00+08:00",
-                    "EndSecond": "2023-08-20T21:50:00+08:00",
+                    "StartSecond": "2024-09-07T11:00:00",
+                    "EndSecond": "2024-09-07T11:50:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T11:50:00",
+                    "EndSecond": "2024-09-07T12:20:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T12:20:00",
+                    "EndSecond": "2024-09-07T13:00:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T13:00:00",
+                    "EndSecond": "2024-09-07T13:30:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T13:30:00",
+                    "EndSecond": "2024-09-07T13:40:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T13:40:00",
+                    "EndSecond": "2024-09-07T14:25:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T14:25:00",
+                    "EndSecond": "2024-09-07T14:35:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T14:35:00",
+                    "EndSecond": "2024-09-07T15:20:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T15:20:00",
+                    "EndSecond": "2024-09-07T15:50:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T15:50:00",
+                    "EndSecond": "2024-09-07T16:35:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T16:35:00",
+                    "EndSecond": "2024-09-07T16:45:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T16:45:00",
+                    "EndSecond": "2024-09-07T17:30:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T17:30:00",
+                    "EndSecond": "2024-09-07T18:10:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T18:10:00",
+                    "EndSecond": "2024-09-07T19:00:00",
+                    "TimeType": 0,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T19:00:00",
+                    "EndSecond": "2024-09-07T19:10:00",
+                    "TimeType": 1,
+                    "IsHideDefault": false,
+                    "DefaultClassId": "",
+                    "AttachedObjects": {},
+                    "IsActive": false
+                },
+                {
+                    "StartSecond": "2024-09-07T19:10:00",
+                    "EndSecond": "2024-09-07T20:30:00",
                     "TimeType": 0,
                     "IsHideDefault": false,
                     "DefaultClassId": "",
@@ -783,1706 +245,1300 @@
                     "IsActive": false
                 }
             ],
+            "AttachedObjects": {},
+            "IsActive": false
+        }
+    },
+    "ClassPlans": {
+        "4af7b869-204e-414b-b0c6-c4358345ef7a": {
+            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
+            "TimeRule": {
+                "WeekDay": 1,
+                "WeekCountDiv": 0,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "cf251cd8-2aab-4aa1-8211-50f4e6919a3d",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                }
+            ],
+            "Name": "星期一",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-07T13:35:47.4466569+08:00",
+            "IsEnabled": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "e781727f-2e40-46f6-8e73-2d9564895540": {
+            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
+            "TimeRule": {
+                "WeekDay": 2,
+                "WeekCountDiv": 0,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                    "IsActive": false
+                }
+            ],
+            "Name": "星期二",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-07T13:36:00.6800916+08:00",
+            "IsEnabled": true,
+            "AttachedObjects": {},
+            "IsActive": false
+        },
+        "66796bd7-5f60-410f-9d4a-2a196ffdda63": {
+            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
+            "TimeRule": {
+                "WeekDay": 3,
+                "WeekCountDiv": 0,
+                "IsActive": false
+            },
+            "Classes": [
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "e2614929-97e5-407f-ad7c-f7a0cdf55f29",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "e2614929-97e5-407f-ad7c-f7a0cdf55f29",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "IsActive": false
+                }
+            ],
+            "Name": "星期三",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-07T13:36:15.1926242+08:00",
+            "IsEnabled": true,
             "AttachedObjects": {
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
                     "IsAttachSettingsEnabled": false,
                     "ShowExtraInfoOnTimePoint": true,
                     "ExtraInfoType": 0,
                     "IsCountdownEnabled": true,
                     "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
             },
             "IsActive": false
         },
-        "755d9e20-022a-453c-8c59-85953ca2eece": {
-            "Name": "\u5468\u65E5",
-            "Layouts": [
+        "afeed70a-8913-46c3-817a-51a345fdbdc9": {
+            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
+            "TimeRule": {
+                "WeekDay": 4,
+                "WeekCountDiv": 1,
+                "IsActive": false
+            },
+            "Classes": [
                 {
-                    "StartSecond": "2023-08-20T18:30:00",
-                    "EndSecond": "2023-08-20T20:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 300,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T20:20:00+08:00",
-                    "EndSecond": "2023-08-20T20:40:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T20:40:00+08:00",
-                    "EndSecond": "2023-08-20T21:50:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
                     "IsActive": false
                 }
             ],
+            "Name": "星期四 单",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-07T13:36:28.3848247+08:00",
+            "IsEnabled": true,
             "AttachedObjects": {
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
                     "IsAttachSettingsEnabled": false,
                     "ShowExtraInfoOnTimePoint": true,
                     "ExtraInfoType": 0,
                     "IsCountdownEnabled": true,
                     "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
             },
             "IsActive": false
         },
-        "d188ae24-491f-454f-a324-467510be6ed1": {
-            "Name": "\u5468\u4E94",
-            "Layouts": [
+        "87a101fc-c251-413b-be0a-b1830081befc": {
+            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
+            "TimeRule": {
+                "WeekDay": 4,
+                "WeekCountDiv": 2,
+                "IsActive": false
+            },
+            "Classes": [
                 {
-                    "StartSecond": "2023-08-20T07:20:00+08:00",
-                    "EndSecond": "2023-08-20T07:45:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "9875b24c-470d-4195-8a6a-73925ea4808b",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T07:45:00+08:00",
-                    "EndSecond": "2023-08-20T07:55:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T07:55:00+08:00",
-                    "EndSecond": "2023-08-20T08:35:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T08:35:00+08:00",
-                    "EndSecond": "2023-08-20T08:45:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T08:45:00+08:00",
-                    "EndSecond": "2023-08-20T09:25:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T09:25:00+08:00",
-                    "EndSecond": "2023-08-20T09:50:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T09:50:00+08:00",
-                    "EndSecond": "2023-08-20T10:30:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T10:30:00+08:00",
-                    "EndSecond": "2023-08-20T10:40:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T10:40:00+08:00",
-                    "EndSecond": "2023-08-20T11:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T11:20:00+08:00",
-                    "EndSecond": "2023-08-20T11:30:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T11:30:00+08:00",
-                    "EndSecond": "2023-08-20T12:10:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T12:10:00+08:00",
-                    "EndSecond": "2023-08-20T12:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": true,
-                    "DefaultClassId": "923f4a8b-51eb-468b-971d-bb02e7db0163",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": false,
-                            "IsClassOnPreparingNotificationEnabled": false,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T12:20:00+08:00",
-                    "EndSecond": "2023-08-20T13:20:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T13:00:00+08:00",
-                    "EndSecond": "2023-08-20T13:00:00+08:00",
-                    "TimeType": 2,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T13:20:00",
-                    "EndSecond": "2023-08-20T14:00:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T14:00:00",
-                    "EndSecond": "2023-08-20T14:10:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T14:10:00",
-                    "EndSecond": "2023-08-20T14:50:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T14:50:00",
-                    "EndSecond": "2023-08-20T15:00:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T15:00:00",
-                    "EndSecond": "2023-08-20T15:40:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
                     "IsActive": false
                 }
             ],
+            "Name": "星期四 双",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-07T13:36:46.9445767+08:00",
+            "IsEnabled": true,
             "AttachedObjects": {
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "\u672C\u5468\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6536\u62FE\u597D\u4E2A\u4EBA\u7269\u54C1\uFF0C\u524D\u5F80\u4E58\u5750\u6821\u8F66\u3002\u6821\u8F66\u5C06\u572816\uFF1A10\u5206\u53D1\u8F66\u3002",
-                    "IsAttachSettingsEnabled": true,
-                    "IsActive": false
-                },
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
                     "IsAttachSettingsEnabled": false,
                     "ShowExtraInfoOnTimePoint": true,
                     "ExtraInfoType": 0,
                     "IsCountdownEnabled": true,
                     "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
             },
             "IsActive": false
         },
-        "da56c237-7704-4439-b3f1-c06e6aaeea3a": {
-            "Name": "\u5468\u4E00",
-            "Layouts": [
+        "3af68ff8-510a-437f-af0e-945d47d7b3f9": {
+            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
+            "TimeRule": {
+                "WeekDay": 5,
+                "WeekCountDiv": 1,
+                "IsActive": false
+            },
+            "Classes": [
                 {
-                    "StartSecond": "2023-08-20T07:30:00",
-                    "EndSecond": "2023-08-20T08:00:00",
-                    "TimeType": 0,
-                    "IsHideDefault": true,
-                    "DefaultClassId": "9875b24c-470d-4195-8a6a-73925ea4808b",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T08:00:00",
-                    "EndSecond": "2023-08-20T08:10:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T08:10:00",
-                    "EndSecond": "2023-08-20T08:50:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T08:50:00",
-                    "EndSecond": "2023-09-07T09:00:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T09:00:00",
-                    "EndSecond": "2023-08-20T09:40:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T09:40:00",
-                    "EndSecond": "2023-08-20T09:50:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T09:50:00+08:00",
-                    "EndSecond": "2023-08-20T10:30:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T10:30:00+08:00",
-                    "EndSecond": "2023-08-20T10:40:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T10:40:00+08:00",
-                    "EndSecond": "2023-08-20T11:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T11:20:00+08:00",
-                    "EndSecond": "2023-08-20T11:30:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T11:30:00+08:00",
-                    "EndSecond": "2023-08-20T12:10:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T12:10:00+08:00",
-                    "EndSecond": "2023-08-20T12:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": true,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": false,
-                            "IsClassOnPreparingNotificationEnabled": false,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T12:20:00+08:00",
-                    "EndSecond": "2023-08-20T14:00:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T13:00:00+08:00",
-                    "EndSecond": "2023-08-20T13:00:00+08:00",
-                    "TimeType": 2,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T14:00:00+08:00",
-                    "EndSecond": "2023-08-20T14:40:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T14:40:00+08:00",
-                    "EndSecond": "2023-08-20T14:50:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T14:50:00+08:00",
-                    "EndSecond": "2023-08-20T15:30:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        },
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T15:30:00+08:00",
-                    "EndSecond": "2023-08-20T15:40:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T15:40:00+08:00",
-                    "EndSecond": "2023-08-20T16:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T16:20:00+08:00",
-                    "EndSecond": "2023-08-20T16:35:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T16:35:00+08:00",
-                    "EndSecond": "2023-08-20T17:15:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T17:15:00+08:00",
-                    "EndSecond": "2023-08-20T18:30:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T18:00:00+08:00",
-                    "EndSecond": "2023-08-20T18:00:00+08:00",
-                    "TimeType": 2,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {},
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T18:30:00",
-                    "EndSecond": "2023-08-20T20:20:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 300,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T20:20:00+08:00",
-                    "EndSecond": "2023-08-20T20:40:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T20:40:00+08:00",
-                    "EndSecond": "2023-08-20T21:50:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
                     "IsActive": false
                 }
             ],
+            "Name": "星期五 单 ",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-07T13:36:57.952237+08:00",
+            "IsEnabled": true,
             "AttachedObjects": {
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
                     "IsAttachSettingsEnabled": false,
                     "ShowExtraInfoOnTimePoint": true,
                     "ExtraInfoType": 0,
                     "IsCountdownEnabled": true,
                     "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
             },
             "IsActive": false
         },
-        "b336d409-3abc-4c74-95a0-95ede6f52e77": {
-            "Name": "\u5468\u65E5 \u5468\u6D4B",
-            "Layouts": [
-                {
-                    "StartSecond": "2023-08-20T18:30:00",
-                    "EndSecond": "2023-08-20T19:40:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 300,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T19:40:00+08:00",
-                    "EndSecond": "2023-08-20T19:50:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                },
-                {
-                    "StartSecond": "2023-08-20T19:50:00+08:00",
-                    "EndSecond": "2023-08-20T21:50:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
-                    "IsActive": false
-                }
-            ],
-            "AttachedObjects": {
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                    "IsAttachSettingsEnabled": false,
-                    "ShowExtraInfoOnTimePoint": true,
-                    "ExtraInfoType": 0,
-                    "IsCountdownEnabled": true,
-                    "CountdownSeconds": 60,
-                    "IsActive": false
-                }
+        "cd3b191c-4a4f-421e-9707-269c91d07a27": {
+            "TimeLayoutId": "ee47a562-4fa6-40bd-ab8d-89babecb9d4d",
+            "TimeRule": {
+                "WeekDay": 5,
+                "WeekCountDiv": 2,
+                "IsActive": false
             },
-            "IsActive": false
-        },
-        "6400efc8-46cf-4ee9-b20b-f0a576f94a3d": {
-            "Name": "\u5468\u65E5 \u5468\u6D4B 2",
-            "Layouts": [
+            "Classes": [
                 {
-                    "StartSecond": "2023-08-20T18:30:00",
-                    "EndSecond": "2023-08-20T19:10:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 300,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        },
-                        "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
-                            "IsAttachSettingsEnabled": false,
-                            "ShowExtraInfoOnTimePoint": true,
-                            "ExtraInfoType": 0,
-                            "IsCountdownEnabled": true,
-                            "CountdownSeconds": 60,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T19:10:00+08:00",
-                    "EndSecond": "2023-08-20T19:20:00+08:00",
-                    "TimeType": 1,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 1,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
                     "IsActive": false
                 },
                 {
-                    "StartSecond": "2023-08-20T19:20:00+08:00",
-                    "EndSecond": "2023-08-20T21:50:00+08:00",
-                    "TimeType": 0,
-                    "IsHideDefault": false,
-                    "DefaultClassId": "",
-                    "AttachedObjects": {
-                        "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                            "IsClassOnNotificationEnabled": true,
-                            "IsClassOnPreparingNotificationEnabled": true,
-                            "IsClassOffNotificationEnabled": true,
-                            "ClassPreparingDeltaTime": 60,
-                            "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                            "IsAttachSettingsEnabled": false,
-                            "IsActive": false
-                        },
-                        "7625de96-38aa-4b71-b478-3f156dd9458d": {
-                            "AlertShowMode": 2,
-                            "ForecastShowMode": 2,
-                            "IsAttachSettingsEnabled": true,
-                            "IsActive": false
-                        }
-                    },
+                    "SubjectId": "97d0bf3f-137f-4f8a-87d6-ff387063bbd3",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "1154d452-5ede-4194-b4dd-cb40c956c8ed",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "b413c9c6-043e-4a5b-b633-14a31eceb60c",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "0ed2307b-4d9b-48fa-97ed-94bd2213c84e",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "a4a76e77-29d8-4103-882c-2f4c9d1e8077",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "5647e7be-2e02-46f2-b80b-05d509ebabc7",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "9f0d71b7-b4da-4040-a3d5-64da7573c6dd",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
+                    "IsActive": false
+                },
+                {
+                    "SubjectId": "d18e9906-0210-4f00-9dd6-b919f0dd8287",
                     "IsActive": false
                 }
             ],
+            "Name": "星期五 双",
+            "IsOverlay": false,
+            "OverlaySourceId": null,
+            "OverlaySetupTime": "2024-09-07T13:37:10.7201911+08:00",
+            "IsEnabled": true,
             "AttachedObjects": {
-                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
-                    "IsClassOnNotificationEnabled": true,
-                    "IsClassOnPreparingNotificationEnabled": true,
-                    "IsClassOffNotificationEnabled": true,
-                    "ClassPreparingDeltaTime": 60,
-                    "ClassOnPreparingText": "\u51C6\u5907\u4E0A\u8BFE\uFF0C\u8BF7\u56DE\u5230\u5EA7\u4F4D\u5E76\u4FDD\u6301\u5B89\u9759\uFF0C\u505A\u597D\u4E0A\u8BFE\u51C6\u5907\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
-                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
-                    "IsEnabled": true,
-                    "NotificationMsg": "\u4ECA\u5929\u7684\u8BFE\u7A0B\u5DF2\u7ED3\u675F\uFF0C\u8BF7\u540C\u5B66\u4EEC\u6709\u5E8F\u79BB\u5F00\u3002",
-                    "IsAttachSettingsEnabled": false,
-                    "IsActive": false
-                },
                 "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
                     "IsAttachSettingsEnabled": false,
                     "ShowExtraInfoOnTimePoint": true,
                     "ExtraInfoType": 0,
                     "IsCountdownEnabled": true,
                     "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "8fbc3a26-6d20-44dd-b895-b9411e3ddc51": {
+                    "IsEnabled": true,
+                    "NotificationMsg": "今天的课程已结束，请同学们有序离开。",
+                    "IsAttachSettingsEnabled": false,
                     "IsActive": false
                 }
             },
             "IsActive": false
         }
     },
-    "ClassPlans": {},
-    "Subjects": {},
+    "Subjects": {
+        "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
+            "Name": "语文",
+            "Initial": "语",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "1154d452-5ede-4194-b4dd-cb40c956c8ed": {
+            "Name": "数学",
+            "Initial": "数",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "3bbed0c0-bcf3-4dfe-a78d-5da9b02cf8bd": {
+            "Name": "英语",
+            "Initial": "英",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "44ec22d3-3dde-40e6-8eb7-a1f4cd378a04": {
+            "Name": "历史",
+            "Initial": "历",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "9f0d71b7-b4da-4040-a3d5-64da7573c6dd": {
+            "Name": "政治",
+            "Initial": "政",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "a4a76e77-29d8-4103-882c-2f4c9d1e8077": {
+            "Name": "物理",
+            "Initial": "物",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "d18e9906-0210-4f00-9dd6-b919f0dd8287": {
+            "Name": "化学",
+            "Initial": "化",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "a41cc849-b4bc-4dfd-a464-7f4fa3e317ca": {
+            "Name": "生物",
+            "Initial": "生",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "7b7aea95-30ad-4490-8d98-0c9179c47a10": {
+            "Name": "地理",
+            "Initial": "地",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "66d1c380-d292-46e1-86d5-d403e2a4f200": {
+            "Name": "信息技术",
+            "Initial": "信",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请前往机房集合。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "0ed2307b-4d9b-48fa-97ed-94bd2213c84e": {
+            "Name": "体育",
+            "Initial": "体",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请前往体育场集合。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "923f4a8b-51eb-468b-971d-bb02e7db0163": {
+            "Name": "自习",
+            "Initial": "自",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "0d412099-dac6-4616-b6a7-c4fb76b12063": {
+            "Name": "通用技术",
+            "Initial": "技",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "91a88ebb-8ecb-493e-b09c-e35718f01dce": {
+            "Name": "音乐",
+            "Initial": "音",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "742b00dc-901b-496f-ae33-6714a13fa465": {
+            "Name": "美术",
+            "Initial": "美",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "353c420e-c256-4e28-9f9c-283333ba6e62": {
+            "Name": "选修课",
+            "Initial": "选",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "cc826063-bdb7-492b-baf3-3c6877e8c4bf": {
+            "Name": "社团",
+            "Initial": "社",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "31380edc-400d-46c2-b993-a5c4a43db126": {
+            "Name": "心理",
+            "Initial": "心",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "9875b24c-470d-4195-8a6a-73925ea4808b": {
+            "Name": "早读",
+            "Initial": "早",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "cf251cd8-2aab-4aa1-8211-50f4e6919a3d": {
+            "Name": "班会",
+            "Initial": "班",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "95dd61cd-5d2e-4f23-80e8-99be8aa97028": {
+            "Name": "周测",
+            "Initial": "测",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                },
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "5647e7be-2e02-46f2-b80b-05d509ebabc7": {
+            "Name": "大课间",
+            "Initial": "",
+            "TeacherName": "",
+            "IsOutDoor": true,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "b413c9c6-043e-4a5b-b633-14a31eceb60c": {
+            "Name": "午休",
+            "Initial": "休",
+            "TeacherName": "",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        },
+        "e2614929-97e5-407f-ad7c-f7a0cdf55f29": {
+            "Name": "作文",
+            "Initial": "作",
+            "TeacherName": "罗茜",
+            "IsOutDoor": false,
+            "AttachedObjects": {
+                "58e5b69a-764a-472b-bcf7-003b6a8c7fdf": {
+                    "IsAttachSettingsEnabled": false,
+                    "ShowExtraInfoOnTimePoint": true,
+                    "ExtraInfoType": 0,
+                    "IsCountdownEnabled": true,
+                    "CountdownSeconds": 60,
+                    "IsActive": false
+                },
+                "08f0d9c3-c770-4093-a3d0-02f3d90c24bc": {
+                    "IsClassOnNotificationEnabled": true,
+                    "IsClassOnPreparingNotificationEnabled": true,
+                    "IsClassOffNotificationEnabled": true,
+                    "ClassPreparingDeltaTime": 60,
+                    "ClassOnPreparingText": "准备上课，请回到座位并保持安静，做好上课准备。",
+                    "IsAttachSettingsEnabled": false,
+                    "IsActive": false
+                }
+            },
+            "IsActive": false
+        }
+    },
     "IsOverlayClassPlanEnabled": false,
     "OverlayClassPlanId": null,
     "TempClassPlanId": null,
-    "TempClassPlanSetupTime": "2024-05-03T20:33:04.7829202+08:00",
+    "TempClassPlanSetupTime": "2024-09-07T13:43:40.1475851+08:00",
     "IsActive": false
 }

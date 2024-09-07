@@ -1,3 +1,4 @@
 {
-    "DisableSettingsEditing": true
+    "DisableSettingsEditing": true,
+    "AllowExitManagement": false
 }
